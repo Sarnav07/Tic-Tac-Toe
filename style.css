@@ -23,35 +23,35 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap:10px 
+    gap:2vmin; 
 }
 
 .box {
     height: 20vmin;
     width: 20vmin;
-    border-radius:10px;
+    border-radius:1rem;
     border: none;
-    font-size: auto;
+    font-size: 10vmin;
     color: red;
     background-color: blanchedalmond;
 }
 
 #reset {
-    padding: 20px;
-    font-size: 10px;
+    padding: 1rem;
+    font-size: 2rem;
     background-color: black;
     color: white;
-    border-radius: 10px;
-
+    border-radius: 1rem;
+    border:none;
 }
 
 #newButton {
-    padding: 20px;
-    font-size: 10px;
+    padding: 1rem;
+    font-size: 2rem;
     background-color: black;
     color: white;
     border-radius: 10px;
-
+    border: none;
 }
 
 #ms {
@@ -60,6 +60,12 @@ body {
 }
 
 .msg {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5rem;
     
 }
 
