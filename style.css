@@ -4,7 +4,8 @@
 }
 
 body {
-    background-color: bisque;
+    background-color: #121212;
+    color: white;
     text-align: center;
 }
 
@@ -13,7 +14,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; 
-
 }
 
 .Game{
@@ -32,14 +32,14 @@ body {
     border-radius:1rem;
     border: none;
     font-size: 10vmin;
+    background-color: #1e1e1e;
     color: red;
-    background-color: blanchedalmond;
 }
 
 #reset {
     padding: 1rem;
     font-size: 2rem;
-    background-color: black;
+    background-color: #3742fa;
     color: white;
     border-radius: 1rem;
     border:none;
@@ -48,14 +48,14 @@ body {
 #newButton {
     padding: 1rem;
     font-size: 2rem;
-    background-color: black;
+    background-color: #3742fa;
     color: white;
     border-radius: 10px;
     border: none;
 }
 
 #ms {
-    color:aqua;
+    color:#ffffff;
     font-size: large;
 }
 
