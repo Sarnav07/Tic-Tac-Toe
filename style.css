@@ -45,3 +45,24 @@ body {
 
 }
 
+#newButton {
+    padding: 20px;
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+
+}
+
+#ms {
+    color:aqua;
+    font-size: large;
+}
+
+.msg {
+    
+}
+
+.hide {
+    display: none;
+}
